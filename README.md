@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chidie (Victor Eboh)
+# 👋 Hi, I'm Chidie
 
 ![ISO 27001](https://img.shields.io/badge/Framework-ISO27001-blue)
 ![SOC 2](https://img.shields.io/badge/Compliance-SOC_2-green)
