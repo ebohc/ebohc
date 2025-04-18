@@ -1,66 +1,81 @@
-# Chidie
+# 👋 Hi, I'm Chidie (Victor Eboh)
 
-# About Me
+![ISO 27001](https://img.shields.io/badge/Framework-ISO27001-blue)
+![SOC 2](https://img.shields.io/badge/Compliance-SOC_2-green)
+![NIST CSF](https://img.shields.io/badge/Framework-NIST_CS-blue)
+![HIPAA](https://img.shields.io/badge/Regulation-HIPAA-important)
+![PCI DSS](https://img.shields.io/badge/Standard-PCI_DSS_4.0-lightgrey)
+![Email](https://img.shields.io/badge/Email-ebohc@protonmail.com-red)
 
-I'm an Information Security and Governance, Risk & Compliance (GRC) Specialist with over a decade of experience leading security programs, enforcing regulatory compliance, and driving risk-informed decision-making across enterprise environments.
+---
 
-I bring a hybrid skill set that combines technical security expertise with deep GRC domain knowledge — enabling organizations to build secure architectures while maintaining audit-ready compliance with global and U.S. standards such as **ISO 27001**, **SOC 2**, **PCI DSS**, **NIST CSF**, **HIPAA**, **SOX**, **ISO 22301**, and **ISO 20000**.
+## 🧠 About Me
 
-Based in Canada
+I'm an **Information Security and GRC Specialist** with over a decade of experience leading security programs, enforcing regulatory compliance, and driving risk-informed decision-making across enterprise environments.
+
+I bring a hybrid skill set that combines technical security operations and strategic GRC leadership — enabling organizations to secure systems, reduce risk, and maintain audit-ready compliance across frameworks including **ISO 27001**, **SOC 2**, **NIST CSF**, **HIPAA**, **SOX**, **PCI DSS 4.0**, **ISO 22301**, and **ISO 20000**.
 
 ---
 
 ## 🛡️ What I Deliver
 
 ### 🔐 Security Operations & Threat Response
-- Collaborated alongside SOC teams to triage security incidents, fine-tune SIEM rules (Microsoft Sentinel), and support threat hunting initiatives using Cortex XDR, Varonis, and Defender 365.
-- Developed escalation workflows and playbooks to streamline detection and response across phishing, malware, and access-related incidents. This included triage procedures for alerts from Microsoft Sentinel, Cortex XDR, and Defender 365; phishing response guides using PhishER; containment protocols for account compromise and endpoint isolation; and automated escalation paths integrated into Jira Service Management. These playbooks improved coordination between SOC, IT, and DevOps teams, significantly reducing MTTD and MTTR across the board.
+- Collaborated with SOC teams on security incident triage, fine-tuning Sentinel detection rules, and threat hunting via Cortex XDR, Varonis, and Defender 365.
+- Developed playbooks and escalation workflows for phishing, malware, and unauthorized access — integrating automation in **Jira Service Management** to reduce MTTD and MTTR.
+- Example project: [Security Incident Playbooks Template](https://github.com/ebohc/security-playbooks)
 
 ### ⚙️ Risk Management & Remediation
-- Led the design of a unified vulnerability management SLA framework based on NIST SP 800-40, achieving a significant reduction in MTTR (87% in 24 months).
-- Integrated remediation tracking into Jira Service Management and delivered real-time risk dashboards for management oversight.
+- Led rollout of a vulnerability management SLA framework based on **NIST SP 800-40**, reducing MTTR by 87% in 24 months.
+- Integrated Jira dashboards and real-time tracking for visibility across GRC and DevOps teams.
+- Example project: [Vulnerability SLA Framework](https://github.com/ebohc/vuln-sla-template)
 
 ### 📊 Compliance & Audit Readiness
-- Spearheaded internal readiness and evidence mapping for external audits including:
+- Spearheaded evidence gathering for:
   - SOC 2 Type II
-  - HIPAA Security Rule compliance
-  - SOX ITGC reviews
-  - PCI DSS 4.0 and ISO 27001 certification cycles
-- Automated GRC workflows with tools like **Drata**, **OneTrust**, and **SharePoint**, improving control tracking and policy acknowledgment rates.
+  - HIPAA Security Rule
+  - SOX ITGC Controls
+  - PCI DSS 4.0 & ISO 27001
+- Automated control monitoring using **Drata**, **OneTrust**, and **SharePoint**, improving policy acknowledgments and audit prep.
 
-### 🧩 Policy Development & Governance
-- Developed and implemented security policies covering **Incident Response**, **AI Security**, **Business Continuity (ISO 22301)**, **Vendor Risk**, and **Acceptable Use**.
-- Designed enterprise risk registers, RACI maps, and control matrices tied to ISO 27001 Annex A, NIST 800-53, and PCI DSS 4.0.
+### 📘 Policy & Governance Programs
+- Authored policies covering: Incident Response, AI Security, Vendor Risk, Business Continuity (ISO 22301), Acceptable Use, and Access Control.
+- Created ISO-aligned **risk registers**, RACI matrices, and control mapping documents.
+- Example project: [InfoSec Policy Starter Kit](https://github.com/ebohc/security-policies) 
 
 ### 🤖 AI & Data Governance
-- Developed an organizational AI Security Policy governing model risk, ethical AI principles, and vendor assessment of generative tools.
-- Evaluated AI solutions for security gaps and data residency risks — especially where HIPAA, PII, or SOC 2 implications were involved.
+- Developed AI Security Policy covering risk scoring, vendor usage controls, and ethical safeguards.
+- Evaluated generative tools for HIPAA/SOC 2 compliance risks and model bias safeguards.
 
 ---
 
 ## 🧰 Tools & Frameworks
 
-| Category | Tools & Technologies |
-|----------|----------------------|
-| GRC & Risk | Drata, OneTrust, SharePoint, Confluence |
-| Security Stack | Microsoft Sentinel, Defender 365, Varonis, Cortex XDR, PhishER |
-| Standards | ISO 27001, 22301, 20000, PCI DSS 4.0, NIST CSF, HIPAA, SOX, SOC 2 |
-| Reporting & SLA | Jira, Power BI, Excel Dashboards |
-| Collaboration | Microsoft 365, Teams, Slack |
+| Category        | Tools & Technologies |
+|----------------|----------------------|
+| **GRC & Risk** | Drata, OneTrust, SharePoint, Confluence |
+| **Security Ops** | Microsoft Sentinel, Defender 365, Varonis, Cortex XDR, PhishER |
+| **Standards** | ISO 27001, 22301, 20000, PCI DSS 4.0, NIST CSF, HIPAA, SOX, SOC 2 |
+| **Dashboards** | Jira, Power BI, Excel |
+| **Collaboration** | Microsoft 365, Teams, Slack |
 
 ---
 
 ## 🎓 Certifications
 
-- **ISC2 Certified in Cybersecurity (CC)**
-- **ISC2 Certified in Governance, Risk and Compliance (CGRC)**
-- **ISACA Certified in Risk and Information Systems Control (CRISC)**
-- **ISACA Certified Information Security Manager (CISM)**
-- **COMPTIA Cybersecurity Analyst CySA+**
-- **OneTrust Vendor Risk Management**
+- 🛡️ ISC2 Certified in Cybersecurity (CC)
+- 🛡️ ISC2 Certified in Governance, Risk and Compliance (CGRC)
+- 🛡️ ISACA Certified Risk and Information Systems Control (CRISC)
+- 🛡️ ISACA Certified Information Security Manager (CISM)
+- 🛡️ CompTIA Cybersecurity Analyst (CySA+)
+- 🛡️ OneTrust Vendor Risk Management
 
 ---
 
-> I help organizations secure systems, reduce risk, and meet regulatory expectations — delivering security that is measurable, scalable, and audit-ready. I am driven by the belief that security should be both enforceable and explainable. My goal is to build scalable programs that reduce risk, meet compliance, and provide visibility to decision-makers.
+## 📫 Let’s Connect
 
-Let’s connect [ebohc@protonmail.com] if you’re looking for someone who brings strategic compliance thinking **and** technical depth in InfoSec operations.
+[![Email](https://img.shields.io/badge/Email-ebohc@protonmail.com-red)](mailto:ebohc@protonmail.com)
+
+---
+
+> *Security should be enforceable and explainable.*  
+>  I help organizations secure systems, reduce risk, and meet regulatory expectations by delivering security that is measurable, scalable, and audit-ready. Driven by the belief that security must be both enforceable and explainable, I build scalable, auditable, and metrics-driven programs that empower smarter decisions across people, processes, and technology.
