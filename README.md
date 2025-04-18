@@ -22,12 +22,12 @@ I bring a hybrid skill set that combines technical security operations and strat
 ### 🔐 Security Operations & Threat Response
 - Collaborated with SOC teams on security incident triage, fine-tuning Sentinel detection rules, and threat hunting via Cortex XDR, Varonis, and Defender 365.
 - Developed playbooks and escalation workflows for phishing, malware, and unauthorized access — integrating automation in **Jira Service Management** to reduce MTTD and MTTR.
-- Example project: [Security Incident Playbooks Template](https://github.com/ebohc/security-playbooks)
+
 
 ### ⚙️ Risk Management & Remediation
 - Led rollout of a vulnerability management SLA framework based on **NIST SP 800-40**, reducing MTTR by 87% in 24 months.
 - Integrated Jira dashboards and real-time tracking for visibility across GRC and DevOps teams.
-- Example project: [Vulnerability SLA Framework](https://github.com/ebohc/vuln-sla-template)
+
 
 ### 📊 Compliance & Audit Readiness
 - Spearheaded evidence gathering for:
@@ -40,7 +40,7 @@ I bring a hybrid skill set that combines technical security operations and strat
 ### 📘 Policy & Governance Programs
 - Authored policies covering: Incident Response, AI Security, Vendor Risk, Business Continuity (ISO 22301), Acceptable Use, and Access Control.
 - Created ISO-aligned **risk registers**, RACI matrices, and control mapping documents.
-- Example project: [InfoSec Policy Starter Kit](https://github.com/ebohc/security-policies) 
+
 
 ### 🤖 AI & Data Governance
 - Developed AI Security Policy covering risk scoring, vendor usage controls, and ethical safeguards.
