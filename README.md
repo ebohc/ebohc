@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Chidie Eboh
-
-## 🔐 Information Security & GRC Professional | Transitioning into Vulnerability Management & Technical Security Roles
+# 👋 Hi, Chidie | **InfoSec & GRC Analyst** 
 
 I'm a passionate and results-driven security professional with 3+ years of hands-on experience in Information Security, Governance, Risk, and Compliance (GRC). I’ve led enterprise policy initiatives, security audits, and vendor risk assessments across global environments—ensuring compliance with leading standards such as **ISO 27001**, **SOC 2**, **NIST**, and **PCI DSS**.
 
-Currently transitioning into more technical roles where I can apply my deep compliance knowledge alongside technical capabilities in:
+`Incident Response` | `Threat Intelligence` | `Vulnerability Management` | `GRC Compliance` | `Risk Management`
 
 ## 🔐 Professional Focus Areas
 
@@ -36,9 +34,10 @@ Currently transitioning into more technical roles where I can apply my deep comp
 
 ## 🧰 Tools & Technologies
 
-- **Security Tools:** Nessus, OpenVAS, SonarQube, Drata, Qualys, Burp Suite, Crowd Strike
-- **Compliance:** ISO 27001, NIST 800-53, SOC 2, PCI DSS  
-- **Documentation & Reporting:** Confluence, Jira, Excel (Dashboards), Markdown  
+- **Security Tools:** Nessus, OpenVAS, ServiceNow GRC, Drata, Qualys,  EDR (CrowdStrike)
+- **Compliance:** ISO 27001, NIST 800-53, SOC 2, PCI DSS, NIST 800-53, MITRE ATT&CK mapping, audit remediation
+- **Incident Response**: EDR (CrowdStrike), chain of custody, Splunk
+- **Documentation & Reporting:** Confluence, Jira, Excel (Dashboards)
 
 ---
 
