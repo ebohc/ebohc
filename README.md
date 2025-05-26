@@ -2,7 +2,7 @@
 
 ## 🔐 Information Security & GRC Professional | Transitioning into Vulnerability Management & Technical Security Roles
 
-I'm a passionate and results-driven security professional with 10+ years of hands-on experience in Information Security, Governance, Risk, and Compliance (GRC). I’ve led enterprise policy initiatives, security audits, and vendor risk assessments across global environments—ensuring compliance with leading standards such as **ISO 27001**, **SOC 2**, **NIST**, and **PCI DSS**.
+I'm a passionate and results-driven security professional with 3+ years of hands-on experience in Information Security, Governance, Risk, and Compliance (GRC). I’ve led enterprise policy initiatives, security audits, and vendor risk assessments across global environments—ensuring compliance with leading standards such as **ISO 27001**, **SOC 2**, **NIST**, and **PCI DSS**.
 
 Currently transitioning into more technical roles where I can apply my deep compliance knowledge alongside technical capabilities in:
 
