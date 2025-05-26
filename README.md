@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chidiebere Eboh
+# 👋 Hi, I'm Chidie Eboh
 
 ## 🔐 Information Security & GRC Professional | Transitioning into Vulnerability Management & Technical Security Roles
 
