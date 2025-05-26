@@ -1,81 +1,57 @@
-# 👋 Hi, I'm Chidie
+# 👋 Hi, I'm Chidiebere Eboh
 
-![ISO 27001](https://img.shields.io/badge/Framework-ISO27001-blue)
-![SOC 2](https://img.shields.io/badge/Compliance-SOC_2-green)
-![NIST CSF](https://img.shields.io/badge/Framework-NIST_CS-blue)
-![HIPAA](https://img.shields.io/badge/Regulation-HIPAA-important)
-![PCI DSS](https://img.shields.io/badge/Standard-PCI_DSS_4.0-lightgrey)
-![Email](https://img.shields.io/badge/Email-ebohc@protonmail.com-red)
+## 🔐 Information Security & GRC Professional | Transitioning into more Vulnerability Management & Technical Security Roles
 
----
+I'm a passionate and results-driven security professional with a decade of hands-on experience in Information Security, Governance, Risk, and Compliance (GRC). I’ve led enterprise policy initiatives, security audits, and vendor risk assessments across global environments—ensuring compliance with leading standards such as **ISO 27001**, **SOC 2**, **NIST**, and **PCI DSS**.
 
-## 🧠 About Me
+Currently pivoting into more technical roles where I can apply my deep compliance knowledge alongside technical capabilities in:
 
-I'm an **Information Security and GRC Specialist** with over a decade of experience leading security programs, enforcing regulatory compliance, and driving risk-informed decision-making across enterprise environments.
-
-I bring a hybrid skill set that combines technical security operations and strategic GRC leadership — enabling organizations to secure systems, reduce risk, and maintain audit-ready compliance across frameworks including **ISO 27001**, **SOC 2**, **NIST CSF**, **HIPAA**, **SOX**, **PCI DSS 4.0**, **ISO 22301**, and **ISO 20000**.
+- **Vulnerability Assessment & Management**
+- **Security Engineering**
+- **Incident Response Playbooks & Automation**
+- **Secure CI/CD and Code Analysis Tools (SonarQube, GitHub Copilot)**
 
 ---
 
-## 🛡️ What I Deliver
+## 🧰 Tools & Technologies
 
-### 🔐 Security Operations & Threat Response
-- Collaborated with SOC teams on security incident triage, fine-tuning Sentinel detection rules, and threat hunting via Cortex XDR, Varonis, and Defender 365.
-- Developed playbooks and escalation workflows for phishing, malware, and unauthorized access — integrating automation in **Jira Service Management** to reduce MTTD and MTTR.
-
-
-### ⚙️ Risk Management & Remediation
-- Led rollout of a vulnerability management SLA framework based on **NIST SP 800-40**, reducing MTTR by 87% in 24 months.
-- Integrated Jira dashboards and real-time tracking for visibility across GRC and DevOps teams.
-
-
-### 📊 Compliance & Audit Readiness
-- Spearheaded evidence gathering for:
-  - SOC 2 Type II
-  - HIPAA Security Rule
-  - SOX ITGC Controls
-  - PCI DSS 4.0 & ISO 27001
-- Automated control monitoring using **Drata**, **OneTrust**, and **SharePoint**, improving policy acknowledgments and audit prep.
-
-### 📘 Policy & Governance Programs
-- Authored policies covering: Incident Response, AI Security, Vendor Risk, Business Continuity (ISO 22301), Acceptable Use, and Access Control.
-- Created ISO-aligned **risk registers**, RACI matrices, and control mapping documents.
-
-
-### 🤖 AI & Data Governance
-- Developed AI Security Policy covering risk scoring, vendor usage controls, and ethical safeguards.
-- Evaluated generative tools for HIPAA/SOC 2 compliance risks and model bias safeguards.
+- **Security Tools:** Nessus, OpenVAS, SonarQube, Drata, Qualys, Burp Suite, Crowd Strike
+- **DevOps & Cloud:** GitHub Actions, Docker, Jenkins, Rancher  
+- **Compliance:** ISO 27001, NIST 800-53, SOC 2, PCI DSS  
+- **Documentation & Processes:** Confluence, Jira, Markdown, Excel (metrics dashboards)
 
 ---
 
-## 🧰 Tools & Frameworks
+## 📌 Featured Projects (In Progress)
 
-| Category        | Tools & Technologies |
-|----------------|----------------------|
-| **GRC & Risk** | Drata, OneTrust, SharePoint, Confluence |
-| **Security Ops** | Microsoft Sentinel, Defender 365, Varonis, Cortex XDR, PhishER |
-| **Standards** | ISO 27001, 22301, 20000, PCI DSS 4.0, NIST CSF, HIPAA, SOX, SOC 2 |
-| **Dashboards** | Jira, Power BI, Excel |
-| **Collaboration** | Microsoft 365, Teams, Slack |
+Here’s a preview of what I’m currently building or preparing to upload — all tailored to reflect real-world GRC and technical security experience:
 
----
+- 🛡️ **Vulnerability Assessment Lab**  
+  Set up a vulnerable environment using Metasploitable/Kali and scan it using Nessus/OpenVAS. Includes sample findings, remediation steps, and reporting.
 
-## 🎓 Certifications
+- 📊 **Security Metrics Dashboard**  
+  Python-automated KPI dashboard tracking vulnerability SLAs, incident metrics, phishing campaign results, and training completion.
 
-- 🛡️ ISC2 Certified in Cybersecurity (CC)
-- 🛡️ ISC2 Certified in Governance, Risk and Compliance (CGRC)
-- 🛡️ ISACA Certified Risk and Information Systems Control (CRISC)
-- 🛡️ ISACA Certified Information Security Manager (CISM)
-- 🛡️ CompTIA Cybersecurity Analyst (CySA+)
-- 🛡️ OneTrust Vendor Risk Management
+- 🧾 **Vendor Risk Assessment Toolkit**  
+  A collection of my Excel-based vendor risk templates, with mock vendor reviews (e.g., GitHub Copilot, SonarQube). Includes criticality scoring, justification, and recommendations.
 
----
+- 🔄 **DevSecOps Pipeline Demo**  
+  CI/CD pipeline using GitHub Actions with integrated static code analysis (SAST), secret scanning, and dependency checks.
 
-## 📫 Let’s Connect
+- 📝 **Policy & SOP Repository**  
+  Redacted templates of real-world policies aligned to ISO/NIST frameworks (e.g., AI Security Policy, Acceptable Use, Mobile Device Management, Vulnerability Mgmt.).
 
-[![Email](https://img.shields.io/badge/Email-ebohc@protonmail.com-red)](mailto:ebohc@protonmail.com)
+Each project will reflect my ability to bridge security governance and technical implementation.
 
 ---
 
-> *Security should be enforceable and explainable.*  
->  I help organizations secure systems, reduce risk, and meet regulatory expectations by delivering security that is measurable, scalable, and audit-ready. Driven by the belief that security must be both enforceable and explainable, I build scalable, auditable, and metrics-driven programs that empower smarter decisions across people, processes, and technology.
+## 🤝 Let’s Connect
+
+I'm open to collaborations, opportunities, and feedback. Feel free to reach out:
+
+- 📫 Email: ebohc@protonmail.com  
+- 📂 [View My Repositories](https://github.com/ebohc?tab=repositories)
+
+---
+
+> _“Security is not just a function. It's a commitment to protecting trust.”_
