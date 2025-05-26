@@ -10,26 +10,25 @@ Currently transitioning into more technical roles where I can apply my deep comp
 - **Security Monitoring & Incident Response**
 - **Secure Code Analysis & Risk Reviews**
 - **Policy Development & Framework Alignment (ISO/NIST)**
+- **Risk Management According to (ISO/NIST)**
 
 ---
 
 ## 🧰 Tools & Technologies
 
-- **Security Tools:** Nessus, OpenVAS, SonarQube, Drata, Qualys, Burp Suite  
+- **Security Tools:** Nessus, OpenVAS, SonarQube, Drata, Qualys, Burp Suite, Crowd Strike
 - **Compliance:** ISO 27001, NIST 800-53, SOC 2, PCI DSS  
 - **Documentation & Reporting:** Confluence, Jira, Excel (Dashboards), Markdown  
-- **Learning:** Python (basic scripting), Shell
 
 ---
 
 ## 📜 Certifications
 
-- 📌 **Certified in Cybersecurity (CC)** – ISC²  
-- 📌 **ISO/IEC 27001 Lead Implementer** – PECB  
-- 📌 **Certified PCI DSS Implementation Specialist** – [Provider Name, if applicable]  
-- 📌 **Cloud Security & Compliance Fundamentals** – AWS  
-- 📌 **Drata GRC Platform Training** *(Internal)*  
-- 📌 **[Add any others you hold here...]*
+- 🛡️ **Certified in Cybersecurity (CC)** – ISC²  
+- 🛡️ **ISO/IEC 27001 Lead Implementer** – PECB  
+- 🛡️ **CRISC – Certified in Risk and Information Systems Control** – ISACA  
+- 🛡️ **CompTIA Security+** – CompTIA 
+- 🛡️ **[Add any others you hold here...]*
 
 ---
 
