@@ -1,4 +1,4 @@
-# 👋 Hi, Chidie | **InfoSec & GRC Manager** 
+# 👋 Hi, Victor | **InfoSec & GRC Manager** 
 
 I'm a passionate and results-driven security professional with 3+ years of hands-on experience in Information Security, Governance, Risk, and Compliance (GRC). I’ve led enterprise policy initiatives, security audits, and vendor risk assessments across global environments—ensuring compliance with leading standards such as **ISO 27001**, **SOC 2**, **NIST**, and **PCI DSS**.
 
