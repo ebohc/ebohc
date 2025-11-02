@@ -1,83 +1,68 @@
-# 👋 Hi, Victor | **InfoSec Engineer & GRC ** 
+👋 Hi, I’m Victor | Security Engineer | GRC & Cloud Security
 
-Senior Security Engineer – GRC with 5+ years of experience building, automating, and scaling governance, risk, and compliance programs. Proven record operationalizing GRC platforms, integrating cloud telemetry, and mapping controls to SOC 2, ISO 27001, and NIST 800-53 frameworks. Skilled in scripting, API automation, and AWS security tools to deliver continuous compliance, audit readiness, and measurable risk visibility across enterprise environments.
+Security Engineer with 5+ years of experience designing, automating, and improving enterprise security and compliance programs. I focus on building systems that help organizations stay secure, compliant, and efficient—reducing risk, saving time, and improving trust.
 
-`Incident Response` | `Threat Intelligence` | `Vulnerability Management` | `GRC Framework Compliance` | `Risk Management`
+Skilled in automating evidence collection, integrating GRC platforms, and securing AWS environments through configuration management, continuous monitoring, and control validation.
 
-## 🔐 Professional Focus Areas
+Security Engineering | GRC Automation | Cloud Security (AWS) | Vulnerability Management | Incident Response
 
-- **Vulnerability Assessment & Management**  
-  Performing vulnerability scans using tools like Nessus and OpenVAS, analyzing findings, and supporting remediation efforts based on risk severity and SLAs.
+⸻
 
-- **Security Monitoring & Incident Response**  
-  Supporting incident investigations, developing playbooks, and aligning response workflows with organizational SLAs and regulatory expectations.
+🔐 Core Technical Focus
+	•	Security Automation & Engineering
+Automating evidence collection, control testing, and audit workflows using Python, REST APIs, and integrations with ServiceNow, Drata, and OneTrust.
+	•	Cloud Security & Compliance (AWS)
+Deploying and managing AWS Security Hub, Config, Audit Manager, and CloudTrail for continuous compliance aligned with SOC 2, ISO 27001, and NIST 800-53.
+	•	Vulnerability & Threat Management
+Conducting scans using Tenable, Nessus, and OpenVAS; analyzing results and supporting timely remediation tied to business risk and SLAs.
+	•	Incident Detection & Response
+Investigating alerts, performing root cause analysis, and improving response workflows using Splunk and EDR solutions such as CrowdStrike.
+	•	Risk & Governance Frameworks
+Developing and maintaining policies, metrics, and dashboards aligned with ISO 27001, NIST 800-53, SOC 2, and PCI DSS requirements.
+	•	Third-Party & Vendor Risk
+Performing vendor assessments, criticality scoring, and control gap analysis to support procurement and compliance reviews.
 
-- **Secure Code Analysis & Risk Reviews**  
-  Reviewing security implications of code and development practices, including usage of tools like SonarQube, GitHub Copilot, and other AI-assisted coding tools.
+⸻
 
-- **Policy Development & Framework Alignment (ISO/NIST)**  
-  Writing and managing security policies and procedures aligned to ISO 27001, NIST 800-53, SOC 2, and PCI DSS frameworks.
+🧰 Tools & Technologies
 
-- **Risk Management According to ISO 27005 & NIST 800-30**  
-  Identifying, assessing, and mitigating risks in accordance with structured methodologies and organizational risk registers.
+Security Tools: Tenable, Nessus, OpenVAS, CrowdStrike, Splunk
+GRC Platforms: ServiceNow GRC, Drata, OneTrust
+Cloud Security: AWS Security Hub, Config, CloudTrail, Audit Manager
+Scripting & Automation: Python, REST APIs, Power BI Dashboards
+Frameworks: ISO 27001, NIST 800-53, SOC 2, PCI DSS
+Collaboration: Jira, Confluence, Excel (Security Metrics & Reporting)
 
-- **Security Awareness & Insider Threat Program Development**  
-  Designing training campaigns and preventive controls to reduce human risk, improve security behavior, and monitor for insider threat indicators.
+⸻
 
-- **Third-Party/Vendor Security Assessments & Criticality Scoring**  
-  Conducting structured vendor reviews, evaluating data sensitivity, operational dependency, and assigning criticality scores with justification and control recommendations.
+📜 Certifications
+	•	AWS Certified Security – Specialty – AWS
+	•	Certified in Cybersecurity (CC) – ISC²
+	•	CompTIA Security+ – CompTIA
+	•	ISO/IEC 27001 Lead Implementer – PECB
+	•	CRISC (Certified in Risk and Information Systems Control) – ISACA
 
-- **Security Metrics & Reporting for Executive Stakeholders**  
-  Developing dashboards and reports that visualize security KPIs such as vulnerability closure rates, incident resolution time, compliance gaps, and SLA adherence for leadership and audit teams.
+⸻
 
----
+🧩 Featured Projects
+	•	Security Automation & GRC Integration Lab
+Demonstrates automation between AWS, ServiceNow, and Excel dashboards for control evidence and compliance reporting.
+	•	Vulnerability Management Lab
+Scanning and remediation workflows using Nessus/OpenVAS, aligned with SLA-based risk scoring.
+	•	Security Metrics Dashboard
+Python/Excel dashboards visualizing incident trends, risk closure rates, and audit performance metrics.
+	•	Vendor Risk Assessment Toolkit
+Includes redacted vendor assessment templates, scoring systems, and risk justification examples.
+	•	Policy & SOP Repository
+ISO/NIST-aligned security policies and procedures, covering areas such as Acceptable Use, AI Security, and Vulnerability Management.
 
-## 🧰 Tools & Technologies
+Each project blends security engineering, automation, and governance—focused on measurable, real-world impact.
 
-- **Security Tools:** Nessus, OpenVAS, ServiceNow GRC, Drata, Qualys,  EDR (CrowdStrike)
-- **Compliance:** ISO 27001, NIST 800-53, SOC 2, PCI DSS, NIST 800-53, MITRE ATT&CK mapping, audit remediation
-- **Incident Response**: EDR (CrowdStrike), chain of custody, Splunk
-- **Documentation & Reporting:** Confluence, Jira, Excel (Dashboards)
+⸻
 
----
+🤝 Let’s Connect
 
-## 📜 Certifications
+I’m open to collaboration, technical discussions, and opportunities to contribute to secure, scalable systems.
 
-- 🛡️ **Certified in Cybersecurity (CC)** – ISC²
-- 🛡️ **CompTIA Security+** – CompTIA 
-- 🛡️ **ISO/IEC 27001 Lead Implementer** – PECB  
-- 🛡️ **CRISC – Certified in Risk and Information Systems Control** – ISACA  
-
-
----
-
-## 📌 Featured Projects (In Progress)
-
-Here’s what I’m building to showcase my GRC and security experience in practical ways:
-
-- 🛡️ **Vulnerability Assessment Lab**  
-  A sample scanning lab using Nessus/OpenVAS against test environments. Includes findings, risk ratings, and remediation workflows.
-
-- 📊 **Security Metrics Dashboard**  
-  Excel/Python-based KPI tracking (e.g., incidents, SLAs, phishing scores, and training completion) for quarterly reporting.
-
-- 🧾 **Vendor Risk Assessment Toolkit**  
-  Includes redacted templates and mock assessments (e.g., SonarQube, GitHub Copilot) with scoring, justifications, and risk ratings.
-
-- 📝 **Policy & SOP Repository**  
-  ISO/NIST-aligned templates and redacted policy examples: Acceptable Use, Vulnerability Mgmt., Mobile Devices, AI Security.
-
-Each project highlights my ability to blend security governance with real-world assessments and documentation.
-
----
-
-## 🤝 Let’s Connect
-
-I'm open to collaboration, feedback, and opportunities.
-
-- 📫 Email: ebohc@protonmail.com  
-- 📂 [GitHub Repositories](https://github.com/ebohc?tab=repositories)
-
----
-
-> _“Security is not just a function. It's a commitment to protecting trust.”_
+📫 Email: ebohc@protonmail.com
+📂 GitHub Repositories: github.com/ebohc
