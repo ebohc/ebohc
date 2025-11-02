@@ -36,11 +36,12 @@ Collaboration: Jira, Confluence, Excel (Security Metrics & Reporting)
 ⸻
 
 📜 Certifications
-	•	AWS Certified Security – Specialty – AWS
+	
 	•	Certified in Cybersecurity (CC) – ISC²
 	•	CompTIA Security+ – CompTIA
 	•	ISO/IEC 27001 Lead Implementer – PECB
 	•	CRISC (Certified in Risk and Information Systems Control) – ISACA
+	•	AWS Certified Security – Specialty – AWS
 
 ⸻
 
@@ -65,4 +66,3 @@ Each project blends security engineering, automation, and governance—focused o
 I’m open to collaboration, technical discussions, and opportunities to contribute to secure, scalable systems.
 
 📫 Email: ebohc@protonmail.com
-📂 GitHub Repositories: [github.com/ebohc](https://github.com/ebohc/victor)
