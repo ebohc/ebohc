@@ -1,6 +1,6 @@
-# 👋 Hi, Victor | **InfoSec & GRC Manager** 
+# 👋 Hi, Victor | **InfoSec Engineer & GRC ** 
 
-I'm a passionate and results-driven security professional with 3+ years of hands-on experience in Information Security, Governance, Risk, and Compliance (GRC). I’ve led enterprise policy initiatives, security audits, and vendor risk assessments across global environments—ensuring compliance with leading standards such as **ISO 27001**, **SOC 2**, **NIST**, and **PCI DSS**.
+Senior Security Engineer – GRC with 5+ years of experience building, automating, and scaling governance, risk, and compliance programs. Proven record operationalizing GRC platforms, integrating cloud telemetry, and mapping controls to SOC 2, ISO 27001, and NIST 800-53 frameworks. Skilled in scripting, API automation, and AWS security tools to deliver continuous compliance, audit readiness, and measurable risk visibility across enterprise environments.
 
 `Incident Response` | `Threat Intelligence` | `Vulnerability Management` | `GRC Framework Compliance` | `Risk Management`
 
