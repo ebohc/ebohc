@@ -1,80 +1,32 @@
-👋 Hi, Victor | Security Engineer & GRC Specialist
+👋 Hi, I'm Victor | Security Compliance & Risk Manager
+7+ years of experience bridging the gap between technical security engineering and enterprise risk management. I specialize in automating GRC workflows, designing cloud-native controls (AWS), and leading audits (SOC 2, ISO 27001, NIST) to help organizations stay secure and efficient.
+Core Value: I don't just manage risk; I build the automation and tools that make compliance continuous and auditable.
 
-Security Engineer with 5+ years of experience designing, automating, and improving enterprise security and compliance programs.
-Focused on helping organizations stay secure, compliant, and efficient—reducing risk, saving time, and strengthening trust.
 
-Proven in operationalizing GRC platforms, integrating cloud telemetry, and mapping controls to SOC 2, ISO 27001, and NIST 800-53.
-Skilled in scripting, API automation, and AWS security tools to deliver continuous compliance, audit readiness, and visibility.
+🔐 Expertise:
+GRC Automation: Python, REST APIs, ServiceNow, Drata, OneTrust (Reducing manual audit prep).
+Cloud Security: AWS Security Hub, Config, Audit Manager (SOC 2/ISO/NIST alignment).
+Risk & Compliance: Vulnerability Management (Tenable/Nessus), Incident Response, Vendor Risk.
+Leadership: Translating technical data into executive risk dashboards and strategic decisions.
 
-Security Engineering | GRC Automation | Cloud Security (AWS) | Vulnerability Management | Incident Response
 
-⸻
+🧰 Tech Stack:
+Security: Tenable, Nessus, Splunk, CrowdStrike
+GRC: ServiceNow, Drata, OneTrust
+Cloud: AWS (Security Hub, Config, CloudTrail)
+Automation: Python, Power BI, Jira
 
-🔐 Professional Focus Areas
 
-Security Automation & Engineering
-Automating evidence collection, control testing, and audit workflows using Python, REST APIs, and integrations with ServiceNow, Drata, and OneTrust.
+📜 Certifications:
+CRISC (Risk & IS Control)
+AWS Certified Security – Specialty
+CompTIA CySA+ & ISO 27001 Lead Implementer
 
-Cloud Security & Compliance (AWS)
-Configuring AWS Security Hub, Config, and Audit Manager for continuous compliance aligned with SOC 2, ISO 27001, and NIST 800-53.
 
-Vulnerability Assessment & Management
-Performing scans with Tenable, Nessus, and OpenVAS. Prioritizing remediation by risk and SLA.
+📌 Featured Work:
+GRC Automation Pipeline: Built Python scripts to auto-collect AWS evidence for SOC 2, cutting audit prep time by 40%.
+Vulnerability Management Dashboard: Created Power BI/Python dashboards to track SLA adherence and risk closure rates.
+Vendor Risk Toolkit: Developed a scoring model for third-party risk assessments used by procurement teams.
 
-Incident Detection & Response
-Investigating alerts, performing triage and root-cause analysis, and improving detection logic using Splunk and CrowdStrike.
 
-Policy & Framework Alignment (ISO/NIST)
-Developing and maintaining policies aligned to ISO 27001, NIST 800-53, SOC 2, and PCI DSS.
-
-Third-Party & Vendor Risk Management
-Conducting vendor reviews, scoring operational dependency, and recommending mitigation strategies.
-
-Security Metrics & Reporting
-Building dashboards to track vulnerabilities, incidents, SLA adherence, and compliance KPIs.
-
-⸻
-
-🧰 Tools & Technologies
-
-Security: Tenable, Nessus, OpenVAS, CrowdStrike, Splunk
-GRC: ServiceNow GRC, Drata, OneTrust
-Cloud: AWS Security Hub, Config, CloudTrail, Audit Manager
-Automation: Python, REST APIs, Power BI Dashboards
-Frameworks: ISO 27001, NIST 800-53, SOC 2, PCI DSS
-Collaboration: Jira, Confluence, Excel (Metrics & Reporting)
-
-⸻
-
-📜 Certifications
-
-	•	Certified in Cybersecurity (CC) – ISC²
-	•	CompTIA Security+ – CompTIA
-	•	ISO/IEC 27001 Lead Implementer – PECB
-	•	CRISC – Certified in Risk and Information Systems Control – ISACA'	
-	•	AWS Certified Security – Specialty – AWS
-
-⸻
-
-📌 Featured Projects
-
-Security Automation & GRC Integration Lab
-Automation between AWS, ServiceNow, and Excel dashboards for evidence collection and compliance reporting.
-
-Vulnerability Management Lab
-Scanning and remediation workflows using Nessus/OpenVAS with SLA-based tracking.
-
-Security Metrics Dashboard
-Python/Excel dashboards visualizing incidents, risk closure rates, and audit metrics.
-
-Vendor Risk Assessment Toolkit
-Vendor reviews with scoring logic, justification, and mitigation guidance.
-
-Policy & SOP Repository
-ISO/NIST-aligned templates covering Acceptable Use, Vulnerability Management, and AI Security.
-
-⸻
-
-🤝 Let’s Connect
-
-📫 Email: ebohc@protonmail.com
+📫 Let's Connect: ebohc@protonmail.com
