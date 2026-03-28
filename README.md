@@ -1,4 +1,4 @@
-👋 Hi, I'm Victor | Security Compliance & Risk Manager
+👋 Hi, I'm Victor | Security Risk and Compliance Analyst
 7+ years of experience bridging the gap between technical security engineering and enterprise risk management. I specialize in automating GRC workflows, designing cloud-native controls (AWS), and leading audits (SOC 2, ISO 27001, NIST) to help organizations stay secure and efficient.
 Core Value: I don't just manage risk; I build the automation and tools that make compliance continuous and auditable.
 
