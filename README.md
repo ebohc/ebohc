@@ -34,12 +34,17 @@ CRISC · CompTIA CySA+ · ISO 27001 Lead Implementer · ISC2 Certified in Cybers
 
 ## Featured repositories
 
+**[vulnerability-management-program](https://github.com/ebohc/vulnerability-management-program)**  
+A complete vulnerability management program — register, SLA policy,
+remediation decision tree, patch log, compensating controls, and
+risk acceptance register. Includes a real Nessus scan walkthrough.
+
 **[aws-soc2-evidence-collection](https://github.com/ebohc/aws-soc2-evidence-collection)**  
 How to use AWS CloudTrail and Config to automatically collect SOC 2
 audit evidence — with real AWS console screenshots.
 
 **[soc2-audit-prep](https://github.com/ebohc/soc2-audit-prep)**  
-A comprehensive SOC 2 Type II audit prep toolkit — evidence tracker, gap 
+A comprehensive SOC 2 Type II audit prep toolkit — evidence tracker, gap
 assessment, control testing log, PBC tracker, and audit checklist.
 
 **[incident-response-plan](https://github.com/ebohc/incident-response-plan)**  
