@@ -34,13 +34,17 @@ CRISC · CompTIA CySA+ · ISO 27001 Lead Implementer · ISC2 Certified in Cybers
 
 ## Featured repositories
 
-**[vendor-risk-assessment-framework](https://github.com/ebohc/vendor-risk-assessment-framework)**  
-A practical scoring model for third-party vendor risk. Includes Excel template,
-sample assessments, and a full review workflow.
+**[soc2-audit-prep](https://github.com/ebohc/soc2-audit-prep)**  
+A comprehensive SOC 2 Type II audit prep toolkit — evidence tracker, gap 
+assessment, control testing log, PBC tracker, and audit checklist.
 
 **[incident-response-plan](https://github.com/ebohc/incident-response-plan)**  
 A complete incident response plan with seven Excel templates — playbook,
 severity matrix, RACI chart, tabletop exercise, and post-mortem.
+
+**[vendor-risk-assessment-framework](https://github.com/ebohc/vendor-risk-assessment-framework)**  
+A practical scoring model for third-party vendor risk. Includes Excel template,
+sample assessments, and a full review workflow.
 
 **[security-policies](https://github.com/ebohc/security-policies)**  
 29 information security policies mapped to NIST, ISO 27001, CIS Controls,
@@ -55,5 +59,4 @@ I write about GRC, vendor risk, and security automation on Medium.
 
 ---
 
-📫 ebohc@protonmail.com · Canada
-```
+📫 ebohc@protonmail.com · Manitoba, Canada
