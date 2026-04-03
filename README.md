@@ -5,7 +5,7 @@ programs that pass audits and protect the business. I've owned end-to-end
 compliance strategy across SOC 2, ISO 27001, NIST, and ITGC while managing 
 enterprise risk across hybrid cloud environments.
 
-Currently at Aylo — where I built the GRC program from the ground up, led 
+Currently at Aylo where I built the GRC program from the ground up, led 
 SOC 2 Type II and ISO 27001 audits to clean opinions, and designed native 
 AWS cloud controls aligned to NIST and data privacy mandates.
 
@@ -38,6 +38,10 @@ CRISC · CompTIA CySA+ · ISO 27001 Lead Implementer · ISC2 Certified in Cybers
 A practical scoring model for third-party vendor risk. Includes Excel template,
 sample assessments, and a full review workflow.
 
+**[incident-response-plan](https://github.com/ebohc/incident-response-plan)**  
+A complete incident response plan with seven Excel templates — playbook,
+severity matrix, RACI chart, tabletop exercise, and post-mortem.
+
 **[security-policies](https://github.com/ebohc/security-policies)**  
 29 information security policies mapped to NIST, ISO 27001, CIS Controls,
 PCI DSS, and HIPAA. Free to use and adapt.
@@ -52,3 +56,4 @@ I write about GRC, vendor risk, and security automation on Medium.
 ---
 
 📫 ebohc@protonmail.com · Canada
+```
