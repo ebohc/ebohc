@@ -34,6 +34,10 @@ CRISC · CompTIA CySA+ · ISO 27001 Lead Implementer · ISC2 Certified in Cybers
 
 ## Featured repositories
 
+**[aws-soc2-evidence-collection](https://github.com/ebohc/aws-soc2-evidence-collection)**  
+How to use AWS CloudTrail and Config to automatically collect SOC 2
+audit evidence — with real AWS console screenshots.
+
 **[soc2-audit-prep](https://github.com/ebohc/soc2-audit-prep)**  
 A comprehensive SOC 2 Type II audit prep toolkit — evidence tracker, gap 
 assessment, control testing log, PBC tracker, and audit checklist.
