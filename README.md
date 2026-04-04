@@ -59,6 +59,11 @@ sample assessments, and a full review workflow.
 29 information security policies mapped to NIST, ISO 27001, CIS Controls,
 PCI DSS, and HIPAA. Free to use and adapt.
 
+**[security-frameworks-master-template](https://github.com/ebohc/security-frameworks-master-template)**  
+9 security frameworks mapped side by side — SOC 2, ISO 27001, NIST CSF, 
+NIST 800-53, NIST RMF, PCI DSS, HIPAA, CIS v8, and ITGC. Analyst and 
+auditor views for every control requirement.
+
 ---
 
 ## Writing
