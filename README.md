@@ -70,6 +70,11 @@ PCI DSS, and HIPAA. Free to use and adapt.
 NIST 800-53, NIST RMF, PCI DSS, HIPAA, CIS v8, and ITGC. Analyst and 
 auditor views for every control requirement.
 
+**[eu-regulatory-compliance-template](https://github.com/ebohc/eu-regulatory-compliance-template)**  
+DORA, EU AI Act, CSRD, and NIS2 mapped with analyst and auditor 
+views for every requirement. Includes regulation map and glossary.
+
+
 ---
 
 ## Writing
