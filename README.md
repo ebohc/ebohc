@@ -9,8 +9,14 @@ Currently at Aylo where I built the GRC program from the ground up, led
 SOC 2 Type II and ISO 27001 audits to clean opinions, and designed native 
 AWS cloud controls aligned to NIST and data privacy mandates.
 
-I don't just flag problems. I work with leadership and technical teams to 
-fix them before they become incidents.
+## Why I build these resources
+
+I maintain this repository for a simple reason so that when I'm old 
+and have forgotten everything, I can open it up, relearn everything I 
+built, and keep contributing to the security community.
+
+Everything here is real. Built from real audits, real programs, and 
+real problems I've had to solve. If it helps you too, even better.
 
 ---
 
