@@ -13,9 +13,9 @@ AWS cloud controls aligned to NIST and data privacy mandates.
 
 I maintain this repository for a simple reason so that when I'm old 
 and have forgotten everything, I can open it up, relearn everything I 
-built, and keep contributing to the security community.
+built , and keep contributing to the security community.
 
-Everything here is real. Built from real audits, real programs, and 
+Everything here is real. Built from real audits, and 
 real problems I've had to solve. If it helps you too, even better.
 
 ---
@@ -84,4 +84,4 @@ I write about GRC, vendor risk, and security automation on Medium.
 
 ---
 
-📫 ebohc@protonmail.com · Manitoba, Canada
+📫 ebohc@protonmail.com · Canada
