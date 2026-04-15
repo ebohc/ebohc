@@ -2,7 +2,7 @@
 
 Security Compliance Analyst with 7+ years building and maintaining security programs that pass audits and protect the business. I've owned end-to-end compliance strategy across SOC 2 Type II, ISO 27001, PCI-DSS, NIST, and ITGC/ICFR while managing enterprise risk across hybrid cloud environments.
 
-Currently at Aylo where I built the GRC program from the ground up, led SOC 2 Type II and ISO 27001 audits to clean opinions on the first attempt, ran the PCI-DSS program across Requirements 1–12 and A1–A3, and designed AWS cloud controls aligned to NIST CSF 2.0 and data privacy mandates.
+I have succesfully built the GRC program from the ground up, led SOC 2 Type II and ISO 27001 audits to clean opinions on the first attempt, ran the PCI-DSS program across Requirements 1–12 and A1–A3, and designed AWS cloud controls aligned to NIST CSF 2.0 and data privacy mandates.
 
 ## Why I build these resources
 
